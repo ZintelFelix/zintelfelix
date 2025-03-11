@@ -40,7 +40,7 @@
 
 # 📂 Projects
 
-## 🔰 Vinylify - Personal Collection of Vinyl Records
+## 🔰 Testname
 
 ### 🌐 Live Site: ----
 ### 💠 Github Front-End: ----
