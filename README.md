@@ -42,8 +42,8 @@
 
 ## 🔰 Vinylify - Personal Collection of Vinyl Records
 
-### 🌐 Live Site: https://vinylify-murex.vercel.app
-### 💠 Github Front-End: https://github.com/ZintelFelix/Vinylify
+### 🌐 Live Site: ----
+### 💠 Github Front-End: ----
 
 <br>
 
